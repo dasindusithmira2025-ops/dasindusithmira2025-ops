@@ -13,7 +13,7 @@
 ║                                                              ║
 ║        > Building things that matter from Sri Lanka 🇱🇰      ║
 ║        > AI agents, web systems & game worlds               ║
-║        > Currently: SLASSCOM SNIA 2026 Competitor           ║
+║             
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
