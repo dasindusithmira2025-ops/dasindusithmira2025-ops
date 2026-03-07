@@ -13,7 +13,7 @@
 ║                                                              ║
 ║        > Building things that matter from Sri Lanka 🇱🇰      ║
 ║        > AI agents, web systems & game worlds               ║
-║             
+║        > Currently: Shipping projects & leveling up         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -27,7 +27,7 @@
 Hey — I'm **Dasindu Sithmira**, a school student and builder from Sri Lanka.  
 I work across the full stack — from crafting web systems to training AI agents to writing C++ inside Unreal Engine.
 
-Currently competing in the **SLASSCOM National Ingenuity Awards (SNIA) 2026** with **DevMemory AI** — a Codebase Cognition Engine that helps dev teams understand, document, and protect their knowledge automatically.
+Currently building **DevMemory AI** — a Codebase Cognition Engine that helps dev teams understand, document, and protect their knowledge automatically.
 
 ---
 
@@ -80,7 +80,6 @@ Currently competing in the **SLASSCOM National Ingenuity Awards (SNIA) 2026** wi
 
 ## 🏆 Highlights
 
-- 🥇 **SLASSCOM SNIA 2026** — School Category Competitor
 - 🧠 Building AI agents as a development methodology
 - 🎮 Learning Unreal Engine C++ game development
 - 🌍 Representing Sri Lanka in tech innovation
