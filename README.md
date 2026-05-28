@@ -1,33 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dasindu%20Sithmira&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20C%2B%2B%20Game%20Dev%20%7C%20AI%2FML%20Builder&descAlignY=60&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,100:92FE9D&section=header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Dasindu+Sithmira+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;Developer+%7C+Learner+%7C+Builder;Turning+ideas+into+clean+code" alt="Typing SVG" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00c9ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=92FE9D" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=00C9FF" alt="GitHub Stars" />
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        > Building things that matter from Sri Lanka 🇱🇰      ║
-║        > AI agents, web systems & game worlds               ║
-║        > Currently: Shipping projects & leveling up         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" />
 
-</div>
+Hi, I'm **Dasindu Sithmira**, a passionate developer who enjoys building clean, useful, and creative digital solutions.
 
----
+- 🌱 Currently learning and improving my development skills
+- 💻 Interested in web development, software engineering, and open-source projects
+- 🚀 Focused on writing clean, readable, and scalable code
+- 🎯 Goal: Build projects that solve real problems
+- 📫 Reach me: **your.email@example.com**
 
-## ⚡ About Me
-
-Hey — I'm **Dasindu Sithmira**, a school student and builder from Sri Lanka.  
-I work across the full stack — from crafting web systems to training AI agents to writing C++ inside Unreal Engine.
-
-Currently building **DevMemory AI** — a Codebase Cognition Engine that helps dev teams understand, document, and protect their knowledge automatically.
+<br clear="right" />
 
 ---
 
@@ -35,35 +34,19 @@ Currently building **DevMemory AI** — a Codebase Cognition Engine that helps d
 
 <div align="center">
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp" alt="Languages" />
 
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
 
-### 🎮 Game Development
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend and Database" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-> *Repos coming soon — building in public starts now.*
-
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🧠 **DevMemory AI** | Codebase Cognition Engine — autonomous docs, change reasoning & knowledge risk scoring | 🔨 In Progress |
-| 🎮 **UE5 Project** | C++ game development in Unreal Engine 5 | 🔜 Coming Soon |
-| 🌐 **Web Projects** | Full stack web applications | 🔜 Coming Soon |
 
 ---
 
@@ -71,27 +54,140 @@ Currently building **DevMemory AI** — a Codebase Cognition Engine that helps d
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dasindusithmira2025-ops&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasindusithmira2025-ops&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br />
+<br />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🏆 Highlights
+## 📈 Contribution Activity
 
-- 🧠 Building AI agents as a development methodology
-- 🎮 Learning Unreal Engine C++ game development
-- 🌍 Representing Sri Lanka in tech innovation
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> To enable the snake animation, add the GitHub Action workflow from the setup section below.
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" alt="Project One" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true" alt="Project Two" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+## ⚙️ Snake Animation Setup
+
+Create this file in your profile repository:
+
+```text
+.github/workflows/snake.yml
+```
+
+Then paste this workflow:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+## ✨ Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+
+</div>
 
 ---
 
 <div align="center">
 
-**Let's connect and build something legendary.**
+### Thanks for visiting my profile! 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-dasindusithmira2025--ops-181717?style=for-the-badge&logo=github)](https://github.com/dasindusithmira2025-ops)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Keep+learning.;Keep+building.;Keep+improving." alt="Footer Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:92FE9D,100:00C9FF&section=footer" />
 
 </div>
