@@ -1,32 +1,51 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,100:92FE9D&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:2C5364,100:00C9FF&text=Dasindu%20Sithmira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Builder%20%7C%20Web%20Creator%20%7C%20Game%20Dev%20Learner&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Dasindu+Sithmira+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;Developer+%7C+Learner+%7C+Builder;Turning+ideas+into+clean+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=00C9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dasindu+Sithmira+%F0%9F%91%8B;Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;AI+Agents+%7C+Web+Development+%7C+Game+Development;Currently+Building+DevMemory+AI;Code.+Create.+Improve.+Repeat." alt="Typing SVG" />
 
-<br />
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00c9ff&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=92FE9D" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=00C9FF" alt="GitHub Stars" />
+<img src="https://komarev.com/ghpvc/?username=dasindusithmira2025-ops&label=Profile%20Views&color=00c9ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/dasindusithmira2025-ops?label=Followers&style=for-the-badge&color=00c9ff" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/dasindusithmira2025-ops?label=Stars&style=for-the-badge&color=00c9ff" alt="GitHub Stars" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" />
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
-Hi, I'm **Dasindu Sithmira**, a passionate developer who enjoys building clean, useful, and creative digital solutions.
+Hi, I'm **Dasindu Sithmira**, a passionate developer from **Sri Lanka**.
 
-- 🌱 Currently learning and improving my development skills
-- 💻 Interested in web development, software engineering, and open-source projects
-- 🚀 Focused on writing clean, readable, and scalable code
-- 🎯 Goal: Build projects that solve real problems
-- 📫 Reach me: **your.email@example.com**
+I enjoy building clean, useful, and creative digital products. I work with web technologies, AI tools, automation, and game development while continuously learning and improving my skills.
 
-<br clear="right" />
+* 🚀 Currently building **DevMemory AI**
+* 🤖 Interested in **AI agents and automation**
+* 🌐 Building **modern web applications**
+* 🎮 Exploring **Unreal Engine 5 and C++**
+* 🧠 Learning **full-stack development and software engineering**
+* 🎯 Goal: Build projects that solve real problems
+
+<br clear="right">
+
+---
+
+## 🧠 Current Focus
+
+<div align="center">
+
+| Area                    | Focus                                      |
+| ----------------------- | ------------------------------------------ |
+| 🤖 AI Engineering       | AI agents, automation, intelligent tools   |
+| 🌐 Web Development      | Frontend, backend, full-stack systems      |
+| 🎮 Game Development     | Unreal Engine 5, C++, interactive worlds   |
+| 🧩 Software Engineering | Clean code, scalable systems, architecture |
+| 📚 Learning             | Building projects and improving every day  |
+
+</div>
 
 ---
 
@@ -35,32 +54,90 @@ Hi, I'm **Dasindu Sithmira**, a passionate developer who enjoys building clean, 
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp" alt="Languages" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css&theme=dark" alt="Languages" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&theme=dark" alt="Frontend" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend and Database" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" alt="Backend and Database" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="AI and ML" />
+
+### Game Development
+
+<img src="https://skillicons.dev/icons?i=cpp,unreal&theme=dark" alt="Game Development" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman&theme=dark" alt="Tools" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+| Project            | Description                                                                                          | Status      |
+| ------------------ | ---------------------------------------------------------------------------------------------------- | ----------- |
+| **DevMemory AI**   | Codebase cognition engine for autonomous documentation, change reasoning, and knowledge risk scoring | 🚧 Building |
+| **PulseBoost C++** | C++ development project focused on performance and system logic                                      | 🧪 Active   |
+| **Forgespace**     | Creative software and web development project                                                        | 🚀 Active   |
+| **Nordix**         | Modern TypeScript-based project                                                                      | ⚡ Active    |
+| **Web Projects**   | Collection of web applications and experiments                                                       | 📌 Growing  |
 
-<br />
-<br />
+</div>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+
+<a href="https://github.com/dasindusithmira2025-ops/pulseboost_cpp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasindusithmira2025-ops&repo=pulseboost_cpp&theme=tokyonight&hide_border=true&border_radius=15" alt="PulseBoost C++" />
+</a>
+
+<a href="https://github.com/dasindusithmira2025-ops/Forgespace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasindusithmira2025-ops&repo=Forgespace&theme=tokyonight&hide_border=true&border_radius=15" alt="Forgespace" />
+</a>
+
+<a href="https://github.com/dasindusithmira2025-ops/nordix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasindusithmira2025-ops&repo=nordix&theme=tokyonight&hide_border=true&border_radius=15" alt="Nordix" />
+</a>
+
+<a href="https://github.com/dasindusithmira2025-ops/web">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasindusithmira2025-ops&repo=web&theme=tokyonight&hide_border=true&border_radius=15" alt="Web" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dasindusithmira2025-ops&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasindusithmira2025-ops&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=dasindusithmira2025-ops&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dasindusithmira2025-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -70,39 +147,90 @@ Hi, I'm **Dasindu Sithmira**, a passionate developer who enjoys building clean, 
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dasindusithmira2025-ops&theme=tokyo-night&hide_border=true&border_radius=15&area=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## ✨ Developer Profile
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</picture>
+<table>
+<tr>
+<td>
 
-</div>
+**Name**
 
-> To enable the snake animation, add the GitHub Action workflow from the setup section below.
+</td>
+<td>
 
----
+Dasindu Sithmira
 
-## 🚀 Featured Projects
+</td>
+</tr>
+<tr>
+<td>
 
-<div align="center">
+**Location**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" alt="Project One" />
-</a>
+</td>
+<td>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true" alt="Project Two" />
-</a>
+Sri Lanka 🇱🇰
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Main Focus**
+
+</td>
+<td>
+
+AI Agents, Web Systems, Game Development
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Currently Building**
+
+</td>
+<td>
+
+DevMemory AI
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Learning**
+
+</td>
+<td>
+
+Full Stack Development, Unreal Engine C++, AI Engineering
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Mindset**
+
+</td>
+<td>
+
+Build. Learn. Improve. Repeat.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -112,67 +240,15 @@ Hi, I'm **Dasindu Sithmira**, a passionate developer who enjoys building clean, 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://github.com/dasindusithmira2025-ops">
+  <img src="https://img.shields.io/badge/GitHub-dasindusithmira2025--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
 ---
 
-## ⚙️ Snake Animation Setup
-
-Create this file in your profile repository:
-
-```text
-.github/workflows/snake.yml
-```
-
-Then paste this workflow:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: YOUR_GITHUB_USERNAME
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake animation
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-## ✨ Quote
+## 💬 Developer Quote
 
 <div align="center">
 
@@ -184,10 +260,10 @@ jobs:
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+legendary.;Code.+Create.+Improve.+Repeat." alt="Footer Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Keep+learning.;Keep+building.;Keep+improving." alt="Footer Typing SVG" />
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:92FE9D,100:00C9FF&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C9FF,50:2C5364,100:0F2027&section=footer" />
 
 </div>
