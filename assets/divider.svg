@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 6" width="1000" height="6" role="presentation">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#30363D" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#30363D" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#30363D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C6BFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7C6BFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#7C6BFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="2.5" width="1000" height="1" fill="url(#base)"/>
+
+  <rect y="2" width="220" height="2" rx="1" fill="url(#spark)" x="-220">
+    <animate attributeName="x" values="-220;1000" dur="4.5s" repeatCount="indefinite"
+             calcMode="spline" keyTimes="0;1" keySplines="0.45 0 0.55 1"/>
+  </rect>
+</svg>

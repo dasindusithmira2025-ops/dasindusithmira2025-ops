@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-labelledby="title desc">
+  <title id="title">Dasindu Sithmira</title>
+  <desc id="desc">Full-stack developer working in Rust, TypeScript and Python on desktop applications and developer tooling.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#12181f"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+
+    <radialGradient id="au1">
+      <stop offset="0%" stop-color="#7C6BFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7C6BFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="au2">
+      <stop offset="0%" stop-color="#2D8FD5" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#2D8FD5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="au3">
+      <stop offset="0%" stop-color="#FF6BD6" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#FF6BD6" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C6BFF"/>
+      <stop offset="60%" stop-color="#2D8FD5"/>
+      <stop offset="100%" stop-color="#2D8FD5" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+
+    <clipPath id="card"><rect x="0" y="0" width="1000" height="240" rx="16"/></clipPath>
+    <clipPath id="clip1">
+      <rect x="92" y="152" width="0" height="30">
+        <animate attributeName="width" values="0;216;216;0;0"
+                 keyTimes="0;0.10;0.28;0.3333;1" dur="12s" begin="1.2s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="92" y="152" width="0" height="30">
+        <animate attributeName="width" values="0;0;281;281;0;0"
+                 keyTimes="0;0.3333;0.4333;0.6133;0.6667;1" dur="12s" begin="1.2s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="92" y="152" width="0" height="30">
+        <animate attributeName="width" values="0;0;281;281;0"
+                 keyTimes="0;0.6667;0.7667;0.9467;1" dur="12s" begin="1.2s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="1000" height="240" fill="url(#panel)"/>
+
+    <!-- drifting aurora -->
+    <g filter="url(#soft)">
+      <ellipse cx="180" cy="70" rx="190" ry="130" fill="url(#au1)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 120,40; -40,70; 0,0" dur="19s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="720" cy="180" rx="220" ry="140" fill="url(#au2)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -140,-60; 60,-20; 0,0" dur="23s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="500" cy="30" rx="170" ry="110" fill="url(#au3)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 90,90; -80,30; 0,0" dur="27s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <!-- rising motes -->
+    <g fill="#7C6BFF">
+      <circle cx="140" cy="260" r="2">
+        <animate attributeName="cy" values="260;-20" dur="11s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.8;0.8;0" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="360" cy="260" r="1.6" >
+        <animate attributeName="cy" values="260;-20" dur="14s" begin="-4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.7;0.7;0" dur="14s" begin="-4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="610" cy="260" r="2.2">
+        <animate attributeName="cy" values="260;-20" dur="13s" begin="-8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.6;0.6;0" dur="13s" begin="-8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="835" cy="260" r="1.8" fill="#2D8FD5">
+        <animate attributeName="cy" values="260;-20" dur="16s" begin="-2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.7;0.7;0" dur="16s" begin="-2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="940" cy="260" r="1.5" fill="#2D8FD5">
+        <animate attributeName="cy" values="260;-20" dur="12s" begin="-6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.6;0.6;0" dur="12s" begin="-6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- name -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.1s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,14; 0,0" dur="0.9s" begin="0.1s" fill="freeze" calcMode="spline"
+        keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+      <text x="60" y="104" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif"
+            font-size="46" font-weight="700" fill="#F0F6FC" letter-spacing="0.5">Dasindu Sithmira</text>
+    </g>
+
+    <!-- accent rule draws in -->
+    <line x1="62" y1="124" x2="402" y2="124" stroke="url(#rule)" stroke-width="3" stroke-linecap="round"
+          stroke-dasharray="340" stroke-dashoffset="340">
+      <animate attributeName="stroke-dashoffset" values="340;0" dur="1.1s" begin="0.5s" fill="freeze"
+               calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+    </line>
+
+    <!-- typed lines -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2s" fill="freeze"/>
+
+      <text x="60" y="172" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',monospace"
+            font-size="18" fill="#7C6BFF">&#8250;</text>
+
+      <g clip-path="url(#clip1)">
+        <text x="92" y="172" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',monospace"
+              font-size="18" fill="#C9D1D9">Full-stack developer</text>
+      </g>
+      <g clip-path="url(#clip2)">
+        <text x="92" y="172" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',monospace"
+              font-size="18" fill="#C9D1D9">Rust &#183; TypeScript &#183; Python</text>
+      </g>
+      <g clip-path="url(#clip3)">
+        <text x="92" y="172" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',monospace"
+              font-size="18" fill="#C9D1D9">Desktop apps &#38; dev tooling</text>
+      </g>
+
+      <rect y="154" width="2" height="24" fill="#7C6BFF" x="92">
+        <animate attributeName="x"
+          values="92;308;308;92;373;373;92;373;373;92"
+          keyTimes="0;0.10;0.28;0.3333;0.4333;0.6133;0.6667;0.7667;0.9467;1"
+          dur="12s" begin="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete"
+                 dur="1s" begin="1.2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <text x="940" y="206" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
+          font-size="13" fill="#6E7681" opacity="0">
+      Sri Lanka
+      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.6s" fill="freeze"/>
+    </text>
+
+    <rect x="0.5" y="0.5" width="999" height="239" rx="16" fill="none" stroke="#30363D" stroke-width="1"/>
+  </g>
+</svg>
