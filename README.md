@@ -51,9 +51,7 @@ rationale. Unsupported capabilities are surfaced honestly in the app rather than
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dasindusithmira2025-ops&bg_color=00000000&color=8b949e&line=7C6BFF&point=ffffff&area=true&area_color=7C6BFF&hide_border=true" alt="Contribution activity graph" width="100%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dasindusithmira2025-ops&hide_border=true&background=00000000&stroke=30363d&ring=7C6BFF&fire=7C6BFF&currStreakLabel=7C6BFF&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9&excludeDaysLabel=6e7681" alt="Contribution streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dasindusithmira2025-ops&days=90&bg_color=00000000&color=8b949e&line=7C6BFF&point=ffffff&area=true&area_color=7C6BFF&hide_border=true" alt="Contribution activity over the last 90 days" width="100%" />
 
 </div>
 
