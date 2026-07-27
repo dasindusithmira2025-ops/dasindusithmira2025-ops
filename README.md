@@ -2,82 +2,69 @@
 
 # Dasindu Sithmira
 
-**Full-stack developer** — desktop applications, developer tooling, and systems work
+**Full-stack developer** &nbsp;·&nbsp; Desktop applications &nbsp;·&nbsp; Developer tooling &nbsp;·&nbsp; Systems work
 
-<sub>Sri Lanka</sub>
+<sub>📍 Sri Lanka</sub>
 
 </div>
 
-<br/>
-
----
-
 ## About
 
-I build desktop-class software for Windows — native shells over modern web frontends —
-with a bias toward auditability, safe rollback, and honest reporting of what a system can
-and cannot actually do.
+I build desktop-class software for Windows — native shells over modern web frontends — with a
+bias toward auditability, safe rollback, and honest reporting of what a system can and cannot
+actually do.
 
 - Working mostly in **Rust**, **TypeScript**, and **Python**
 - Interested in local-first architecture, systems integration, and measurable performance
 - Prefer software that explains its own behaviour over software that just claims results
 
-<br/>
-
 ## Tech
 
-**Languages**
+<div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-282C34?style=flat-square&logo=rust&logoColor=DEA584)
-![TypeScript](https://img.shields.io/badge/TypeScript-282C34?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-282C34?style=flat-square&logo=python&logoColor=4B8BBE)
-![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-282C34?style=flat-square&logo=postgresql&logoColor=699ECA)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-282C34?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-282C34?style=flat-square&logo=vite&logoColor=BD34FE)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-282C34?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-
-**Desktop & Backend**
-
-![Tauri](https://img.shields.io/badge/Tauri-282C34?style=flat-square&logo=tauri&logoColor=FFC131)
-![Electron](https://img.shields.io/badge/Electron-282C34?style=flat-square&logo=electron&logoColor=9FEAF9)
-![FastAPI](https://img.shields.io/badge/FastAPI-282C34?style=flat-square&logo=fastapi&logoColor=05998B)
-![Node.js](https://img.shields.io/badge/Node.js-282C34?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-
-**Data & Tooling**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?style=flat-square&logo=postgresql&logoColor=699ECA)
-![SQLite](https://img.shields.io/badge/SQLite-282C34?style=flat-square&logo=sqlite&logoColor=87CEEB)
-![Docker](https://img.shields.io/badge/Docker-282C34?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-282C34?style=flat-square&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-282C34?style=flat-square&logo=githubactions&logoColor=8DA0FF)
-
+<img src="https://skillicons.dev/icons?i=rust,ts,py,js,react,vite,tailwind,tauri&theme=dark" alt="Rust, TypeScript, Python, JavaScript, React, Vite, Tailwind, Tauri" />
 <br/>
+<img src="https://skillicons.dev/icons?i=electron,fastapi,nodejs,postgres,sqlite,docker,git,githubactions&theme=dark" alt="Electron, FastAPI, Node.js, PostgreSQL, SQLite, Docker, Git, GitHub Actions" />
 
----
+</div>
 
 ## Featured
 
-### [PulseBoost](https://github.com/dasindusithmira2025-ops/pulseboost_cpp)
+<div align="center">
+
+### [ PulseBoost ](https://github.com/dasindusithmira2025-ops/pulseboost_cpp)
+
+</div>
 
 A Windows gaming and PC optimization desktop application built around transparency and
-reversibility. It monitors live CPU, GPU, RAM, and network signals, applies only
-optimizations it can safely roll back, and records every system action in an audit trail
-with plain-English rationale.
+reversibility. It monitors live CPU, GPU, RAM, and network signals, applies only optimizations
+it can safely roll back, and records every system action in an audit trail with plain-English
+rationale. Unsupported capabilities are surfaced honestly in the app rather than quietly faked.
 
-Unsupported capabilities are surfaced honestly in the app rather than quietly faked.
+<div align="center">
 
-<sub>Python · FastAPI · Electron · React · Vite · Tailwind · SQLite</sub>
+<img src="https://skillicons.dev/icons?i=py,fastapi,electron,react,vite,tailwind,sqlite&theme=dark" alt="Python, FastAPI, Electron, React, Vite, Tailwind, SQLite" />
 
-<br/>
+</div>
 
----
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dasindusithmira2025-ops&bg_color=00000000&color=8b949e&line=7C6BFF&point=ffffff&area=true&area_color=7C6BFF&hide_border=true" alt="Contribution activity graph" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dasindusithmira2025-ops&hide_border=true&background=00000000&stroke=30363d&ring=7C6BFF&fire=7C6BFF&currStreakLabel=7C6BFF&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9&excludeDaysLabel=6e7681" alt="Contribution streak" />
+
+</div>
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzJEOEZENSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==)](https://linkedin.com/in/dasindusithmira)
-[![Instagram](https://img.shields.io/badge/Instagram-282C34?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/dasindusithmira)
-[![Email](https://img.shields.io/badge/Email-282C34?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:dasindusithmira@gmail.com)
+<div align="center">
+
+<a href="https://linkedin.com/in/dasindusithmira"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://instagram.com/dasindusithmira"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a>
+&nbsp;
+<a href="mailto:dasindusithmira@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
+
+</div>
