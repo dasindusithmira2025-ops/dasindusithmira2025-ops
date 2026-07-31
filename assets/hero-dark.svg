@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-label="Dasindu Sithmira — Founder at Corelith Technologies, building Paralith">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0B10"/>
+      <stop offset="1" stop-color="#111119"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 70) rotate(125) scale(430)">
+      <stop stop-color="#7F6BFF" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#7F6BFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80 330) rotate(-60) scale(360)">
+      <stop stop-color="#2FB6C4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#2FB6C4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1" fill="none"/>
+    </pattern>
+    <linearGradient id="rule" x1="80" y1="0" x2="620" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7F6BFF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#7F6BFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="slab" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#8E7CFF"/>
+      <stop offset="1" stop-color="#5B49E0"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.10"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="10" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="10" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="10" fill="url(#glow)"/>
+  <rect width="1200" height="340" rx="10" fill="url(#glow2)"/>
+
+  <!-- monolith mark : CORE + LITH -->
+  <g transform="translate(940 92)" opacity="0.95">
+    <rect x="0"  y="34" width="26" height="122" rx="4" fill="#FFFFFF" fill-opacity="0.07"/>
+    <rect x="34" y="16" width="26" height="140" rx="4" fill="#FFFFFF" fill-opacity="0.11"/>
+    <rect x="68" y="0"  width="26" height="156" rx="4" fill="url(#slab)" fill-opacity="0.85"/>
+    <rect x="102" y="16" width="26" height="140" rx="4" fill="#FFFFFF" fill-opacity="0.11"/>
+    <rect x="136" y="34" width="26" height="122" rx="4" fill="#FFFFFF" fill-opacity="0.07"/>
+    <circle cx="81" cy="78" r="7" fill="#0B0B10"/>
+    <circle cx="81" cy="78" r="3.5" fill="#CFC6FF"/>
+  </g>
+
+  <!-- eyebrow -->
+  <text x="80" y="88" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3.4" fill="#7F6BFF" fill-opacity="0.95">CORELITH TECHNOLOGIES</text>
+  <text x="316" y="88" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3.4" fill="#6E7681">/ SRI LANKA</text>
+
+  <!-- name -->
+  <text x="78" y="158" font-family="Inter, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.2" fill="#F2F3F7">Dasindu Sithmira</text>
+
+  <rect x="80" y="182" width="540" height="1.5" fill="url(#rule)"/>
+
+  <!-- tagline -->
+  <text x="80" y="219" font-family="Inter, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#AEB6C2">Founder&#160;&#160;·&#160;&#160;Product engineer&#160;&#160;·&#160;&#160;Systems builder</text>
+
+  <text x="80" y="255" font-family="Inter, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="16" fill="#7D8695">Software directed by humans, executed by intelligent agents,</text>
+  <text x="80" y="279" font-family="Inter, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="16" fill="#7D8695">and verified by evidence.</text>
+
+  <!-- footer strip -->
+  <rect x="80" y="303" width="1040" height="1" fill="url(#fade)"/>
+  <text x="80" y="326" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.6" fill="#5A626E">BUILDING PARALITH — THE AGENTIC DEVELOPMENT ENVIRONMENT</text>
+  <text x="1120" y="326" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.6" fill="#5A626E">2026</text>
+
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="10" stroke="#FFFFFF" stroke-opacity="0.08" fill="none"/>
+</svg>
