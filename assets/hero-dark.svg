@@ -5,7 +5,7 @@
       <stop offset="1" stop-color="#111119"/>
     </linearGradient>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 70) rotate(125) scale(430)">
-      <stop stop-color="#7F6BFF" stop-opacity="0.40"/>
+      <stop stop-color="#7F6BFF" stop-opacity="0.26"/>
       <stop offset="1" stop-color="#7F6BFF" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80 330) rotate(-60) scale(360)">
@@ -48,7 +48,7 @@
 
   <!-- eyebrow -->
   <text x="80" y="88" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3.4" fill="#7F6BFF" fill-opacity="0.95">CORELITH TECHNOLOGIES</text>
-  <text x="316" y="88" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3.4" fill="#6E7681">/ SRI LANKA</text>
+  <text x="330" y="88" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3.4" fill="#6E7681">/ SRI LANKA</text>
 
   <!-- name -->
   <text x="78" y="158" font-family="Inter, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.2" fill="#F2F3F7">Dasindu Sithmira</text>

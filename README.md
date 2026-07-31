@@ -11,9 +11,9 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"/>
-  <img src="assets/hero-dark.svg" alt="Dasindu Sithmira — Founder at Corelith Technologies. Software directed by humans, executed by intelligent agents, and verified by evidence." width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=2"/>
+  <img src="assets/hero-dark.svg?v=2" alt="Dasindu Sithmira — Founder at Corelith Technologies. Software directed by humans, executed by intelligent agents, and verified by evidence." width="100%"/>
 </picture>
 
 <div align="center">
@@ -55,56 +55,17 @@ The objective is not to remove developers. It is to give ambitious developers be
 
 That system should understand the repository, isolate parallel work, keep long-term context alive, surface what needs attention, and prove what was actually completed.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+**Agent execution**  
+`Claude agents` `Codex agents` `Missions` `Roles` `Bounded execution` `Permissions`
 
-**Agent execution**
+**Engineering environment**  
+`Terminals` `Worktrees` `Multi-project` `Multi-monitor` `Secure filesystem`
 
-`Claude & Codex agents`
-`Mission workflows`
-`Role-based assignment`
-`Bounded execution`
-`Permission-aware actions`
+**Project intelligence**  
+`Memory` `Context assembly` `Typed knowledge` `Provenance` `Contradictions`
 
-</td>
-<td width="50%" valign="top">
-
-**Engineering environment**
-
-`Multi-terminal workspaces`
-`Isolated worktrees`
-`Multi-project operation`
-`Multi-monitor support`
-`Secure filesystem`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Project intelligence**
-
-`Persistent memory`
-`Context assembly`
-`Typed knowledge`
-`Artifact provenance`
-`Contradiction detection`
-
-</td>
-<td width="50%" valign="top">
-
-**Verification**
-
-`Diff inspection`
-`Automated evaluations`
-`Test evidence`
-`Completion reports`
-`Human review gates`
-
-</td>
-</tr>
-</table>
+**Verification**  
+`Diffs` `Evaluations` `Test evidence` `Completion reports` `Review gates`
 
 <sub>Built with **Tauri** · **Rust** · **React** · **TypeScript** · **SQLite** · **Git** — source private during development, shipping through a [signed update channel](https://github.com/dasindusithmira2025-ops/paralith-updates).</sub>
 
@@ -125,15 +86,20 @@ That system should understand the repository, isolate parallel work, keep long-t
 
 ## How I build
 
-**AI output is not evidence.** A generated answer, a green terminal, or an agent's completion claim does not prove the work is correct. Real completion requires tests, diffs, artifacts, and reproducible behaviour.
+**AI output is not evidence.**  
+A generated answer, a green terminal, or an agent's completion claim does not prove the work is correct. Real completion requires tests, diffs, artifacts, and reproducible behaviour.
 
-**Automation must remain observable.** A powerful system that cannot explain what it is doing becomes impossible to trust, debug, or control.
+**Automation must remain observable.**  
+A powerful system that cannot explain what it is doing becomes impossible to trust, debug, or control.
 
-**Every dangerous action needs a recovery path.** Rollback, isolation, audit history, and explicit permissions are what make autonomy safe enough to actually use.
+**Every dangerous action needs a recovery path.**  
+Rollback, isolation, audit history, and explicit permissions are what make autonomy safe enough to actually use.
 
-**The interface is part of the architecture.** A complex system should not force users to carry that complexity in their heads.
+**The interface is part of the architecture.**  
+A complex system should not force users to carry that complexity in their heads.
 
-**Build systems, not demos.** A polished prototype creates the illusion of progress. A real product survives edge cases, failures, migrations, and actual users.
+**Build systems, not demos.**  
+A polished prototype creates the illusion of progress. A real product survives edge cases, failures, migrations, and actual users.
 
 ---
 
@@ -145,26 +111,22 @@ That system should understand the repository, isolate parallel work, keep long-t
 
 </div>
 
-| | |
-|:--|:--|
-| **Languages** | TypeScript · Rust · Python · JavaScript · C++ · C# |
-| **Product** | React · Next.js · Tailwind · Tauri · Electron |
-| **Services** | Node.js · NestJS · FastAPI · PostgreSQL · SQLite · Prisma |
-| **Infrastructure** | Git · GitHub Actions · Docker · Linux · Windows |
-| **AI** | Claude · Codex · RAG · Agent memory · Evaluations |
-| **Creative** | Unreal Engine · Blender · Figma |
+**Languages**&nbsp;&nbsp;·&nbsp;&nbsp;TypeScript · Rust · Python · JavaScript · C++ · C#  
+**Product**&nbsp;&nbsp;·&nbsp;&nbsp;React · Next.js · Tailwind · Tauri · Electron  
+**Services**&nbsp;&nbsp;·&nbsp;&nbsp;Node.js · NestJS · FastAPI · PostgreSQL · SQLite · Prisma  
+**Infrastructure**&nbsp;&nbsp;·&nbsp;&nbsp;Git · GitHub Actions · Docker · Linux · Windows  
+**AI**&nbsp;&nbsp;·&nbsp;&nbsp;Claude · Codex · RAG · Agent memory · Evaluations  
+**Creative**&nbsp;&nbsp;·&nbsp;&nbsp;Unreal Engine · Blender · Figma
 
 ---
 
 ## Recognition
 
-| | |
-|:--|:--|
-| **2024** | APICTA — **First Runner-Up**, Brunei |
-| **2025** | APICTA — **Finalist**, Chinese Taipei |
-| **2025** | International Science and Engineering Fair — **Finalist**, United States |
-| **Now** | Founder — Corelith Technologies |
-| **Now** | Creator and Lead Product Engineer — Paralith |
+`2024`&nbsp;&nbsp;**APICTA — First Runner-Up**&nbsp;&nbsp;·&nbsp;&nbsp;Brunei  
+`2025`&nbsp;&nbsp;**APICTA — Finalist**&nbsp;&nbsp;·&nbsp;&nbsp;Chinese Taipei  
+`2025`&nbsp;&nbsp;**International Science and Engineering Fair — Finalist**&nbsp;&nbsp;·&nbsp;&nbsp;United States  
+`now`&nbsp;&nbsp;&nbsp;**Founder**&nbsp;&nbsp;·&nbsp;&nbsp;Corelith Technologies  
+`now`&nbsp;&nbsp;&nbsp;**Creator and Lead Product Engineer**&nbsp;&nbsp;·&nbsp;&nbsp;Paralith
 
 ---
 
@@ -172,26 +134,7 @@ That system should understand the repository, isolate parallel work, keep long-t
 
 Building a development environment where agents understand the project, parallel work stays isolated, important context survives, repository activity stays visible, humans remain in control, and completed work proves itself.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-- Agent session recovery
-- Multi-agent swarm execution
-- Repository intelligence
-- Long-term project memory
-
-</td>
-<td width="50%" valign="top">
-
-- Multi-monitor agent workspaces
-- Terminal-scoped Git context
-- Evidence-based completion
-- Signed automatic updates
-
-</td>
-</tr>
-</table>
+`Agent session recovery` `Multi-agent swarms` `Repository intelligence` `Long-term memory` `Multi-monitor workspaces` `Terminal-scoped Git context` `Evidence-based completion` `Signed automatic updates`
 
 ---
 
