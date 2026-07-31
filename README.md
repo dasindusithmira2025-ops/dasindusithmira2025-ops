@@ -11,9 +11,9 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=2"/>
-  <img src="assets/hero-dark.svg?v=2" alt="Dasindu Sithmira — Founder at Corelith Technologies. Software directed by humans, executed by intelligent agents, and verified by evidence." width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=3"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=3"/>
+  <img src="assets/hero-dark.svg?v=3" alt="Dasindu Sithmira — Founder at Corelith Technologies. Software directed by humans, executed by intelligent agents, and verified by evidence." width="100%"/>
 </picture>
 
 <div align="center">

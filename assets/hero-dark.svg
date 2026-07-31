@@ -47,8 +47,7 @@
   </g>
 
   <!-- eyebrow -->
-  <text x="80" y="88" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3.4" fill="#7F6BFF" fill-opacity="0.95">CORELITH TECHNOLOGIES</text>
-  <text x="330" y="88" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3.4" fill="#6E7681">/ SRI LANKA</text>
+  <text x="80" y="88" font-family="ui-monospace, 'JetBrains Mono', SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="3.4"><tspan fill="#8E7CFF">CORELITH TECHNOLOGIES</tspan><tspan fill="#4E555F">&#160;&#160;/&#160;&#160;</tspan><tspan fill="#6E7681">SRI LANKA</tspan></text>
 
   <!-- name -->
   <text x="78" y="158" font-family="Inter, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.2" fill="#F2F3F7">Dasindu Sithmira</text>
